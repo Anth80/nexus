@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/gammazero/nexus/client"
-	"github.com/gammazero/nexus/wamp"
+	"github.com/Anth80/nexus/client"
+	"github.com/Anth80/nexus/wamp"
 )
 
 func TestRPCSharedRoundRobin(t *testing.T) {

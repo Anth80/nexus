@@ -4,9 +4,9 @@ import (
 	"testing"
 
 	"github.com/fortytw2/leaktest"
-	"github.com/gammazero/nexus/transport"
-	"github.com/gammazero/nexus/transport/serialize"
-	"github.com/gammazero/nexus/wamp"
+	"github.com/Anth80/nexus/transport"
+	"github.com/Anth80/nexus/transport/serialize"
+	"github.com/Anth80/nexus/wamp"
 )
 
 const tcpAddr = "127.0.0.1:8181"

@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/gammazero/nexus/wamp"
+	"github.com/Anth80/nexus/wamp"
 )
 
 func hasRole(details wamp.Dict, role string) bool {

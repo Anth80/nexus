@@ -16,7 +16,7 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/gammazero/nexus/client"
+	"github.com/Anth80/nexus/client"
 )
 
 const (

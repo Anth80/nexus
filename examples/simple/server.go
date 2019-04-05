@@ -9,8 +9,8 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/gammazero/nexus/router"
-	"github.com/gammazero/nexus/wamp"
+	"github.com/Anth80/nexus/router"
+	"github.com/Anth80/nexus/wamp"
 )
 
 const (

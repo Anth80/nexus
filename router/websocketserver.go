@@ -14,10 +14,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gammazero/nexus/stdlog"
-	"github.com/gammazero/nexus/transport"
-	"github.com/gammazero/nexus/transport/serialize"
-	"github.com/gammazero/nexus/wamp"
+	"github.com/Anth80/nexus/stdlog"
+	"github.com/Anth80/nexus/transport"
+	"github.com/Anth80/nexus/transport/serialize"
+	"github.com/Anth80/nexus/wamp"
 	"github.com/gorilla/websocket"
 )
 

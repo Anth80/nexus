@@ -7,8 +7,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/gammazero/nexus/stdlog"
-	"github.com/gammazero/nexus/transport"
+	"github.com/Anth80/nexus/stdlog"
+	"github.com/Anth80/nexus/transport"
 )
 
 // RawSocketServer handles socket connections.

@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/gammazero/nexus/router/auth"
-	"github.com/gammazero/nexus/stdlog"
-	"github.com/gammazero/nexus/transport"
-	"github.com/gammazero/nexus/wamp"
+	"github.com/Anth80/nexus/router/auth"
+	"github.com/Anth80/nexus/stdlog"
+	"github.com/Anth80/nexus/transport"
+	"github.com/Anth80/nexus/wamp"
 )
 
 // RealmConfig configures a single realm in the router.  The router

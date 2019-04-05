@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/gammazero/nexus/router"
-	"github.com/gammazero/nexus/transport"
+	"github.com/Anth80/nexus/router"
+	"github.com/Anth80/nexus/transport"
 )
 
 // ConnectLocal creates a new client directly connected to the router instance.

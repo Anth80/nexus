@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gammazero/nexus/wamp"
+	"github.com/Anth80/nexus/wamp"
 )
 
 const (
